@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Josephine Selvarani Ruth D"
+title: "Sreeram"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
